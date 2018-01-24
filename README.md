@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## OpenMP and CUDA Projects
 
 You can use the [editor on GitHub](https://github.com/BeverlyAb/OpenMP-and-CUDA-Projects/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
